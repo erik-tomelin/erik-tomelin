@@ -3,7 +3,8 @@
 <div align="center">
 <img src="group.png" alt="Jhey" width="70%" align="center"/>
 </div>
-<h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate Web Developer from Brazil. 🇧🇷 ✨ </h3>
+<h3> align="center">🇧🇷  Hello, I'm Erik :D </h3>
+<h3>A passionate Web Developer from Brazil. 🇧🇷</h3>
 
 </br>
 
