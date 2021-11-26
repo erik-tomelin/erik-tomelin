@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Hi there 👋</h1>
 
-  <h1 align="center">Hello, I'm Erik :D</h1>
-  <h1 align="center">Dev. Treinne Java</h1>
+  <h3 align="center">Hello, I'm Erik :D</h3>
+  <h3 align="center">Dev. Treinne Java</h3>
   
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=erik-tomelin&show_icons=true&theme=material-palenight&count_private=true" alt="eriktomelin" />
