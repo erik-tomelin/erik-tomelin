@@ -1,8 +1,7 @@
 <div align="center">
   <h1 align="center">Sup 👋</h1>
 
-  <h3 align="center">I'm Erik :D</h3>
-  <h3 align="center">Dev. Java and Angular +12</h3>
+  <h3 align="center">Desenvolvedor júnior FullStack</h3>
   <h3 align="center">and be very welcome to my GitHub profile</h3>
   
   <div style="display: flex;">
