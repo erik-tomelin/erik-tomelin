@@ -2,7 +2,7 @@
   <h1 align="center">Sup 👋</h1>
 
   <h3 align="center">FrontEnd Dev. Pleno</h3>
-  <h3 align="center">and be very welcome to my GitHub profile</h3>
+  <h3 align="center">get nice and comfortable to my GitHub!</h3>
   
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=erik-tomelin&show_icons=true&theme=material-palenight&count_private=true" alt="eriktomelin" />
